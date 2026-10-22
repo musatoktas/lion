@@ -1,5 +1,11 @@
 # @lion/ui
 
+## 0.25.1
+
+### Patch Changes
+
+- df9d634: [input-amount] fix rounding of big numbers (20+ digits) resulting in `NaN`
+
 ## 0.25.0
 
 ### Minor Changes
